@@ -61,11 +61,13 @@ body {
     animation-name: text;
     overflow: hidden;
     animation-duration: 70s;
+        
 }
 
-.wrapper .text p {
+/* .wrapper .text p {
     margin-bottom: 100px;
-}
+
+} */
 
 /* Animations */
 
